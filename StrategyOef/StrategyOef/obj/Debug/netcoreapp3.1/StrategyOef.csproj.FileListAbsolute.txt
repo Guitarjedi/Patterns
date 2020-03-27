@@ -1,0 +1,11 @@
+C:\Users\Matthijs\source\repos\StrategyOef\StrategyOef\bin\Debug\netcoreapp3.1\StrategyOef.exe
+C:\Users\Matthijs\source\repos\StrategyOef\StrategyOef\bin\Debug\netcoreapp3.1\StrategyOef.deps.json
+C:\Users\Matthijs\source\repos\StrategyOef\StrategyOef\bin\Debug\netcoreapp3.1\StrategyOef.runtimeconfig.json
+C:\Users\Matthijs\source\repos\StrategyOef\StrategyOef\bin\Debug\netcoreapp3.1\StrategyOef.runtimeconfig.dev.json
+C:\Users\Matthijs\source\repos\StrategyOef\StrategyOef\bin\Debug\netcoreapp3.1\StrategyOef.dll
+C:\Users\Matthijs\source\repos\StrategyOef\StrategyOef\bin\Debug\netcoreapp3.1\StrategyOef.pdb
+C:\Users\Matthijs\source\repos\StrategyOef\StrategyOef\obj\Debug\netcoreapp3.1\StrategyOef.csprojAssemblyReference.cache
+C:\Users\Matthijs\source\repos\StrategyOef\StrategyOef\obj\Debug\netcoreapp3.1\StrategyOef.AssemblyInfoInputs.cache
+C:\Users\Matthijs\source\repos\StrategyOef\StrategyOef\obj\Debug\netcoreapp3.1\StrategyOef.AssemblyInfo.cs
+C:\Users\Matthijs\source\repos\StrategyOef\StrategyOef\obj\Debug\netcoreapp3.1\StrategyOef.dll
+C:\Users\Matthijs\source\repos\StrategyOef\StrategyOef\obj\Debug\netcoreapp3.1\StrategyOef.pdb
